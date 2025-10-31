@@ -1,73 +1,96 @@
-# Welcome to your Lovable project
+# DevRay — AI-Powered Software Developer Portfolio Platform
 
-## Project info
+## 🧠 Vision & Purpose
 
-**URL**: https://lovable.dev/projects/1e591ebc-b4c4-4bb7-ac92-10c626869511
+It blends **modern UI, structured storytelling, automation & future AI capability** to help developers showcase:
 
-## How can I edit this code?
+- Skills & technical competency
+- Engineering journey & learning curve
+- Real projects with meaningful context
+- Personal brand and vision
 
-There are several ways of editing your application.
+Built with **Kenyan precision, African innovation, and global ambition** 🇰🇪🌍🔥
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1e591ebc-b4c4-4bb7-ac92-10c626869511) and start prompting.
+## 🌍 Problem Statement
 
-Changes made via Lovable will be committed automatically to this repo.
+Traditional developer portfolios are:
 
-**Use your preferred IDE**
+- ❌ Static
+- ❌ Generic
+- ❌ Manual to update
+- ❌ Lacking interactivity
+- ❌ Offering no intelligence or evolution
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+They don't reflect how engineers grow, learn, or build.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**Developers need a smarter identity platform.**
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 💡 Solution Overview
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### ✅ DevRay Delivers
 
-# Step 3: Install the necessary dependencies.
-npm i
+| Category | Description |
+|--------|-------------|
+🎨 **Personal Brand Identity** | Polished UI, animations, developer vibe  
+🛠 **Technical Competency Showcase** | Categorized skills + badges  
+🚀 **Project Experience Hub** | GitHub + live demo + stack tags  
+🤖 **Future AI Support** | Auto-updates, AI assistant, resume builder  
+📈 **Learning Growth Narrative** | Evolution of skills & timeline  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+This is a **living engineering profile.**
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## ✨ Features
 
-**Use GitHub Codespaces**
+### 🏗 Core Sections
+- Hero — Developer identity + tagline
+- Skills — Tech stacks grouped by domain
+- Projects — Cards with tech badges and links
+- About Me — Story, purpose, mission
+- Contact — Socials + direct touch link
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### 🛠 Engineering Enhancements (planned)
+- Dark mode
+- Motion animations
+- Smooth page transitions
+- Reusable components architecture
 
-## What technologies are used for this project?
+### 🤖 Future AI Modules
+- AI “Chat with My Portfolio”
+- Auto CV & cover-letter generator
+- GitHub sync (auto update projects)
+- Skills analytics dashboard
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🧱 Tech Stack
 
-## How can I deploy this project?
+| Layer | Stack |
+|------|-------|
+Framework | React (Vite)  
+Styling | TailwindCSS *(planned)*  
+Animation | Framer Motion *(planned)*  
+Deployment | Vercel / Netlify *(TBA)*  
+Tools | Git, VS Code, Figma  
+AI | OpenAI API *(future)*  
 
-Simply open [Lovable](https://lovable.dev/projects/1e591ebc-b4c4-4bb7-ac92-10c626869511) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🎨 UI/UX Philosophy
 
-Yes, you can!
+- Clean, developer aesthetic
+- Meaningful motion — not noise
+- Readable code-font inspired style
+- Human personality in design
+- Mobile-first responsive layout
+- Recruiter-friendly flow
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📂 Folder Structure (Planned Layout)
+
