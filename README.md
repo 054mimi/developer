@@ -96,16 +96,18 @@ npm run build
 for mobile devices:
 open the link https://converter-core.lovable.app on your device
 if you use chrome as your browser:
-    find the 3 dots at the top right f your browser
-    select the option "Add to Desktop"
-    confirm install
-    run the app from your device.
-      NOTE: By default, a pop up should appear at the top of your 
-      browser window asking to install the app, confirm.
+find the 3 dots at the top right f your browser
+select the option "Add to Desktop"
+confirm install
+run the app from your device.
+
+NOTE: By default, a pop up should appear at the top of your 
+browser window asking to install the app, confirm.
+
 if you use brave:
-    open the same link on your mobile device
-    find the 3 dots, probably at the bottom right
-    click "Add to desktop"
-    confirm installation.
+open the same link on your mobile device
+find the 3 dots, probably at the bottom right
+click "Add to desktop"
+confirm installation.
 
 Boom💥, your converter calculator is ready for use.
