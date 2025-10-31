@@ -1,96 +1,111 @@
-# DevRay — AI-Powered Software Developer Portfolio Platform
+# ProgCalc — Programmer’s Base Conversion Calculator
 
-## 🧠 Vision & Purpose
+## 🚀 Overview
 
-It blends **modern UI, structured storytelling, automation & future AI capability** to help developers showcase:
+DevRay is a powerful, developer-centric calculator designed to simplify conversions between number bases.  
+This tool is ideal for programmers, hardware engineers, and students working with binary, octal, decimal and hexadecimal values.
 
-- Skills & technical competency
-- Engineering journey & learning curve
-- Real projects with meaningful context
-- Personal brand and vision
+📂 Repository: https://github.com/054mimi/developer  
+🌐 Live Application: https://converter-core.lovable.app
 
-Built with **Kenyan precision, African innovation, and global ambition** 🇰🇪🌍🔥
+---
+**COLLABORATORS**   **ADM NO**            **GITHUB ACC**
+1. DUNCAN NDEGWA - PA106/G/21859/24    :  https://github.com/054mimi
+2. ANOLD ONCHAGU - PA106/G/21456/24    :  https://github.com/Anold-softsmake
+3. MARYANN KARIUKI - PA106/G/21578/24  :  https://github.com/Maryann-Riuki
+4. JOHN MUSYOKI - PA106/G/21936/24     :  https://github.com/Vilainn
+5. STEPHEN MUSYOKA - PA106/G/22416/24  :  https://github.com/G3nt68
+
+   
+## 🧮 The Problem
+
+Working with multiple number systems (binary, decimal, hex, octal) and bitwise operations can be tedious and error-prone. Common pain-points include:
+
+- Mistakes converting between bases  
+- Time-consuming manual calculation of bit shifts or masks  
+- Lack of unified, intuitive UI for base-specific operations  
+- Steep learning curve for newcomers in systems programming  
 
 ---
 
-## 🌍 Problem Statement
+## 💡 Our Solution
 
-Traditional developer portfolios are:
+DevRay provides a streamlined, feature-rich base-conversion calculator that addresses these issues. Key functionalities include:
 
-- ❌ Static
-- ❌ Generic
-- ❌ Manual to update
-- ❌ Lacking interactivity
-- ❌ Offering no intelligence or evolution
-
-They don't reflect how engineers grow, learn, or build.
-
-**Developers need a smarter identity platform.**
+- **Multi-Base Conversion**: Instantly convert numbers between binary, octal, decimal and hexadecimal.  
+- **Operand Size Control**: Define bit-width (8, 16, 32, 64) for accurate hardware-level operations.  
+- **Clean UI**: Intuitive and responsive, designed for rapid developer use.  
 
 ---
 
-## 💡 Solution Overview
+## 🛠 Technical Implementation
 
-### ✅ DevRay Delivers
+### Architecture & Tech Stack
+- Front-end: **[Specify language/framework]** _(TBA)_  
+- Logic engine: Implements base conversion
+- Operand size switching and bit-masking support  
+- Input validation: Recognizes valid digits for each base  
+- Output display shows aligned values in desired  base (either binary, octal, decimal or hex)  
 
-| Category | Description |
-|--------|-------------|
-🎨 **Personal Brand Identity** | Polished UI, animations, developer vibe  
-🛠 **Technical Competency Showcase** | Categorized skills + badges  
-🚀 **Project Experience Hub** | GitHub + live demo + stack tags  
-🤖 **Future AI Support** | Auto-updates, AI assistant, resume builder  
-📈 **Learning Growth Narrative** | Evolution of skills & timeline  
-
-This is a **living engineering profile.**
-
----
-
-## ✨ Features
-
-### 🏗 Core Sections
-- Hero — Developer identity + tagline
-- Skills — Tech stacks grouped by domain
-- Projects — Cards with tech badges and links
-- About Me — Story, purpose, mission
-- Contact — Socials + direct touch link
-
-### 🛠 Engineering Enhancements (planned)
-- Dark mode
-- Motion animations
-- Smooth page transitions
-- Reusable components architecture
-
-### 🤖 Future AI Modules
-- AI “Chat with My Portfolio”
-- Auto CV & cover-letter generator
-- GitHub sync (auto update projects)
-- Skills analytics dashboard
+### Key Features
+- Real-time conversion: Enter a value in one base, see it in all others  
+- Operand-size selection: Choose 8-bit, 16-bit, 32-bit, 64-bit operations  
+- Clear error handling and input restrictions for each base  
 
 ---
 
-## 🧱 Tech Stack
-
-| Layer | Stack |
-|------|-------|
-Framework | React (Vite)  
-Styling | TailwindCSS *(planned)*  
-Animation | Framer Motion *(planned)*  
-Deployment | Vercel / Netlify *(TBA)*  
-Tools | Git, VS Code, Figma  
-AI | OpenAI API *(future)*  
+## 🎨 UI/UX Design Principles
+- Developer-friendly layout: Code-style fonts, clear base labels  
+- Dark mode (TBA) for reduced eye strain during long coding sessions  
+- Minimal learning curve: Focus on usage, not settings  
+- Responsive design: Works on desktop and portable devices  
 
 ---
 
-## 🎨 UI/UX Philosophy
+## 📊 Feature Breakdown
 
-- Clean, developer aesthetic
-- Meaningful motion — not noise
-- Readable code-font inspired style
-- Human personality in design
-- Mobile-first responsive layout
-- Recruiter-friendly flow
+### 1. Multi-Base Conversion
+- Enter number in any supported base (e.g., `0x1A`, `0b10110`, `045`)  
+- Instant display of equivalent any of desired ba
+
+### 2. Operand Size & Masking
+- Dropdown to select bit-width  
+- Display shows value as unsigned and signed (two’s complement) where applicable  
 
 ---
 
-## 📂 Folder Structure (Planned Layout)
+## 📈 Why DevRay Stands Out
+- Tailored for programmers, not just generic calculators  
+- Combines base conversion + bitwise operations in one UI  
+- Supports custom operand sizes (hardware level)  
+- Clean and focused interface, avoiding bloat  
 
+---
+
+## 📦 Installation & Setup
+``` Run this on your Terminal
+git clone https://github.com/054mimi/developer
+cd developer
+# Install dependencies (if applicable)  
+npm install  
+# Run development build  
+npm run dev  
+# Build for production  
+npm run build
+```
+for mobile devices:
+open the link https://converter-core.lovable.app on your device
+if you use chrome as your browser:
+    find the 3 dots at the top right f your browser
+    select the option "Add to Desktop"
+    confirm install
+    run the app from your device.
+      NOTE: By default, a pop up should appear at the top of your 
+      browser window asking to install the app, confirm.
+if you use brave:
+    open the same link on your mobile device
+    find the 3 dots, probably at the bottom right
+    click "Add to desktop"
+    confirm installation.
+
+Boom💥, your converter calculator is ready for use.
