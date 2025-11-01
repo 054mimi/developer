@@ -74,7 +74,7 @@ DevRay provides a streamlined, feature-rich base-conversion calculator that addr
 
 ---
 
-## 📈 Why DevRay Stands Out
+## 📈 Why ProgCalc Stands Out
 - Tailored for programmers, not just generic calculators  
 - Combines base conversion + bitwise operations in one UI  
 - Supports custom operand sizes (hardware level)  
